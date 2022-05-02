@@ -1,3 +1,5 @@
+# Template CloudFormation para provisionar uma instância EC2 com jenkins
+
 # Versão do template - não alterar
 AWSTemplateFormatVersion: "2010-09-09"
 
