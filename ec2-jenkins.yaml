@@ -65,4 +65,8 @@ Resources:
           sudo yum install jenkins -y
           sudo systemctl enable jenkins
           sudo systemctl start jenkins
+<<<<<<< HEAD
 
+=======
+          
+>>>>>>> c9ea95b1a73fd2b1c19ec2ce1b6c2e88b2efeb6a
